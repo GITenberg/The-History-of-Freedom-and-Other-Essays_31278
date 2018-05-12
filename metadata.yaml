@@ -1,0 +1,39 @@
+_repo: The-History-of-Freedom-and-Other-Essays_31278
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Acton, John Emerich Edward Dalberg Acton, Baron
+    alias: Acton, Lord
+    birthdate: 1834
+    deathdate: 1902
+    gutenberg_agent_id: '8192'
+    url: http://www.gutenberg.org/2009/agents/8192
+    wikipedia: http://en.wikipedia.org/wiki/John_Dalberg-Acton%2C_1st_Baron_Acton
+description: ''
+gutenberg_issued: '2010-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31278'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'History -- Philosophy'
+- !lcc 'D'
+- !lcsh 'Liberty -- History'
+- !lcsh 'History'
+tableOfContents: The history of freedom in antiquity -- The history of freedom in
+  Christianity -- Sir Erskine May's Democracy in Europe -- The massacre of St. Bartholomew
+  -- The Protestant theory of persecution -- Political thoughts on the church -- Introduction
+  to L.A. Burd's Edition of Il principe by Machiavelli -- Mr. Goldwin Smith's Irish
+  history -- Nationality -- Döllinger on the temporal power -- Döllinger's historical
+  work -- Cardinal Wiseman and the Home and foreign review -- Conflicts with Rome
+  -- The Vatican Council -- A history of the Inquisition of the Middle Ages / by Henry
+  Charles Lea -- The American commonwealth / by James Bryce -- Historical philosophy
+  in France and French Belgium and Switzerland / by Robert Flint.
+title: The History of Freedom, and Other Essays
+url: http://www.gutenberg.org/ebooks/31278
